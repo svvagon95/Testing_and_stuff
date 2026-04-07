@@ -1,0 +1,1 @@
+{"version":2,"defects":[],"times":{"Tests\\UserTest::testUserCanBeCreated":0,"Tests\\UserTest::testUserFullName":0,"Tests\\ApiTest::testUserApiReturnsUsers":0.001,"Tests\\MockTest::testFindUserByEmailIsCalled":0.005}}
